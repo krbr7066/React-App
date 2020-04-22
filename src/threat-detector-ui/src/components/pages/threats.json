@@ -1,0 +1,27 @@
+
+[
+  {
+    "name": "Fire",
+    "threat_id": 1
+  },
+  {
+    "name": "Pandemic",
+    "threat_id": 2
+  },
+  {
+    "name": "War",
+    "threat_id": 3
+  },
+  {
+    "name": "Tornado",
+    "threat_id": 4
+  },
+  {
+    "name": "Hurricane",
+    "threat_id": 5
+  },
+  {
+    "name": "Flood",
+    "threat_id": 6
+  }
+]
